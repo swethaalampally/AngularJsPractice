@@ -15,7 +15,7 @@ export class EventsListComponent {
     eventList = {
         id: 1,
         name: 'Angular Connect',
-        date: '04/12/2018',
+        date: '04/01/2019',
         price: 10.0,
         imageUrl: '',
         location: {
